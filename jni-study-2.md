@@ -1,3 +1,5 @@
+# JNI学习：在Java中保存Native对象引用
+
 在学习Android Framework源码时，发现部分类中声明了这个变量：
 ```java
 private int mPtr; // used by native code
